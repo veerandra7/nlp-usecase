@@ -1,5 +1,5 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: nlp-usecase
 # defeine TOC or order of website-
 nav:
   - Home: index.md
@@ -9,8 +9,8 @@ site_description: >-
   DESCRIPTION
 
 # Repository
-repo_name: veerandra7/REPO_NAME
-repo_url: https://github.com/veerandra7/REPO_NAME
+repo_name: veerandra7/nlp-usecase
+repo_url: https://github.com/veerandra7/nlp-usecase
 
 # Configuration
 theme:
